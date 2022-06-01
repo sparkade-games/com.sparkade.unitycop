@@ -1,0 +1,14 @@
+{
+  "name": "com.sparkade.com.sparkade.unitycop",
+  "version": "1.0.0",
+  "displayName": "UnityCop",
+  "description": "A StyleCop implimentation for Unity.",
+  "unity": "2021.2",
+  "unityRelease": "1f1",
+  "keywords": [
+    "unitycop"
+  ],
+  "author": {
+    "name": "Sparkade Games"
+  }
+}
