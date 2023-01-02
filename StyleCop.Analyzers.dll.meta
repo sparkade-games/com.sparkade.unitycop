@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0abd282087455ff439659818f35f5b38
+guid: d87f258d18b356d4b87da094b0034c2d
 labels:
 - RoslynAnalyzer
 PluginImporter:
@@ -10,8 +10,8 @@ PluginImporter:
   defineConstraints: []
   isPreloaded: 0
   isOverridable: 0
-  isExplicitlyReferenced: 0
-  validateReferences: 1
+  isExplicitlyReferenced: 1
+  validateReferences: 0
   platformData:
   - first:
       : Any
@@ -59,7 +59,7 @@ PluginImporter:
     second:
       enabled: 0
       settings:
-        CPU: x86_64
+        CPU: None
   - first:
       Windows Store Apps: WindowsStoreApps
     second:
